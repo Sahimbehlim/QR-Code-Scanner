@@ -4,3 +4,5 @@
 • Responsive Using Bootstrap 
 • Logic Using JavaScript 
 • API Data Fetching
+
+Link : https://sahimbehlim.github.io/QR-Code-Scanner/
