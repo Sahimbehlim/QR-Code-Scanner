@@ -22,6 +22,7 @@ function fetchRequest(formData,file){
 };
 
 inputFile.addEventListener('change', e => {
+    e.preventDefault();
     let file = e.target.files[0];
     if(!file) return;
     let formData = new FormData();
